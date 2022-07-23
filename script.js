@@ -1,2 +1,2 @@
-let username = window.prompt("What's your name")
-console.log(username);
+var name = window.prompt("what is your name?");
+document.write (`Hello${name}${}`", how are you?" ); 
